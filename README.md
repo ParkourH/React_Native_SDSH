@@ -1,7 +1,9 @@
 
 #### RN实现的一个小项目，供大家参考学习
 
-![](http://upload-images.jianshu.io/upload_images/2756952-7c38076bda33074a.gif "效果演示")
+
+![效果演示](https://github.com/andmizi/React_Native_SDSH/blob/master/picture/RN.gif "效果演示")
+
 
 #### 系列博客地址：[http://blog.csdn.net/qq_28268507?viewmode=contents](http://blog.csdn.net/qq_28268507?viewmode=contents)
 
