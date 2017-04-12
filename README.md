@@ -1,8 +1,6 @@
 
 #### RN实现的一个小项目，供大家参考学习
 
-![效果演示](http://upload-images.jianshu.io/upload_images/2756952-7c38076bda33074a.gif?imageMogr2/auto-orient/strip)
-
 #### 系列博客地址：[http://blog.csdn.net/qq_28268507?viewmode=contents](http://blog.csdn.net/qq_28268507?viewmode=contents)
 
 #### 运行项目：
